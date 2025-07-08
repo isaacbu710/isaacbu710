@@ -6,7 +6,7 @@
 #### Where to find me:
 [Linkedin] (www.linkedin.com/in/edgar-isaac-hernandez-burgos)
 
-### 🛠️ Lenguajes y herramientas
+### 🛠️ Languages and tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
