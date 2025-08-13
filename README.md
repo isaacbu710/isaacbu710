@@ -6,11 +6,7 @@
 
 ---
 
-<!-- ======= Encabezado / Banner ======= -->
-<p align="center">
-  <!-- Reemplaza la URL del banner por la tuya -->
-  <img src="assets/banner.png" alt="Banner – Data Analyst" width="100%"/>
-</p>
+<img src="assets/banner.svg" alt="Banner Data Analyst" width="100%"/>
 
 ---
 
