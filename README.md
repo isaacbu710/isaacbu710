@@ -18,7 +18,7 @@
 - 📍 CDMX, México
 - 🎓 Ing. Químico de alimentos · Maestría en Ingeniería de Sistemas de Calidad (UNAM)
 - 🎯 Intereses: analítica de negocio, dashboards, AB testing, storytelling con datos
-- 📫 Conecta conmigo: [LinkedIn](https://www.linkedin.com/in/edgar-isaac-hernandez-burgos)
+- 📫 Conecta conmigo: [LinkedIn](www.linkedin.com/in/isaachernandez-dataanalyst)
 
 ---
 
