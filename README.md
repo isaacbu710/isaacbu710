@@ -6,10 +6,6 @@
 
 ---
 
-<img src="assets/banner.svg" alt="Banner Data Analyst" width="100%"/>
-
----
-
 ## 🧭 Sobre mí
 - 📍 CDMX, México
 - 🎓 Ing. Químico de alimentos · Maestría en Ingeniería de Sistemas de Calidad (UNAM)
