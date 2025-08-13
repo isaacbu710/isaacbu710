@@ -83,6 +83,7 @@
 
 ## 📚 Formación 
 - TripleTen – Data Analyst
+- Google . Data Analyst
 - Maestría UNAM – Ingeniería de Sistemas de Calidad (Mención Honorífica)
 - Publicación: Beneficios de la implementación de la norma ISO/IEC 17025:2005 en laboratorios acreditados en México (2016)
 
@@ -91,5 +92,6 @@
 ## 🤝 Colaboremos
 > ¿Tienes un reto de datos? Abierto a colaborar en proyectos de analítica, dashboards y automatización.
 
-- ✉️ Escríbeme por [LinkedIn](htt
+- ✉️ Escríbeme por [LinkedIn](www.linkedin.com/in/isaachernandez-dataanalyst)
+
 
